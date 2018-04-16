@@ -1,0 +1,2 @@
+ <DataGridTextColumn Width="Auto" Binding="{Binding Path=name}" />
+ <DataGridTextColumn Width="Auto" Binding="{Binding Path=RAP_ProductVersion}" />

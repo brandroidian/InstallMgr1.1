@@ -1,0 +1,13 @@
+C:\Users\brandon\OneDrive\_PSProjects\AtosInstallMgr\AtosInstallMgr\AtosInstallMgr\bin\Release\AtosInstallMgr.exe
+C:\Users\brandon\OneDrive\_PSProjects\AtosInstallMgr\AtosInstallMgr\AtosInstallMgr\bin\Release\AtosInstallMgr.pdb
+C:\Users\brandon\OneDrive\_PSProjects\AtosInstallMgr\AtosInstallMgr\AtosInstallMgr\obj\Release\MainWindow.g.cs
+C:\Users\brandon\OneDrive\_PSProjects\AtosInstallMgr\AtosInstallMgr\AtosInstallMgr\obj\Release\App.g.cs
+C:\Users\brandon\OneDrive\_PSProjects\AtosInstallMgr\AtosInstallMgr\AtosInstallMgr\obj\Release\AtosInstallMgr_MarkupCompile.cache
+C:\Users\brandon\OneDrive\_PSProjects\AtosInstallMgr\AtosInstallMgr\AtosInstallMgr\obj\Release\AtosInstallMgr_MarkupCompile.lref
+C:\Users\brandon\OneDrive\_PSProjects\AtosInstallMgr\AtosInstallMgr\AtosInstallMgr\obj\Release\MainWindow.baml
+C:\Users\brandon\OneDrive\_PSProjects\AtosInstallMgr\AtosInstallMgr\AtosInstallMgr\obj\Release\AtosInstallMgr.g.resources
+C:\Users\brandon\OneDrive\_PSProjects\AtosInstallMgr\AtosInstallMgr\AtosInstallMgr\obj\Release\AtosInstallMgr.Properties.Resources.resources
+C:\Users\brandon\OneDrive\_PSProjects\AtosInstallMgr\AtosInstallMgr\AtosInstallMgr\obj\Release\AtosInstallMgr.csproj.GenerateResource.cache
+C:\Users\brandon\OneDrive\_PSProjects\AtosInstallMgr\AtosInstallMgr\AtosInstallMgr\obj\Release\AtosInstallMgr.csproj.CoreCompileInputs.cache
+C:\Users\brandon\OneDrive\_PSProjects\AtosInstallMgr\AtosInstallMgr\AtosInstallMgr\obj\Release\AtosInstallMgr.exe
+C:\Users\brandon\OneDrive\_PSProjects\AtosInstallMgr\AtosInstallMgr\AtosInstallMgr\obj\Release\AtosInstallMgr.pdb

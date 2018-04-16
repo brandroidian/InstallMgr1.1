@@ -1,7 +1,7 @@
 ﻿<#
 ' // ***************************************************************************
 ' // 
-' // FileName:  InstallMgr.ps1
+' // FileName:  AtosInstallMgr.ps1
 ' //            
 ' // Version:   1.00
 ' //            
@@ -11,7 +11,7 @@
 ' //            
 ' // Created:   2018.04.09
 ' //            Brandon Hilgeman
-' //            brandon.hilgeman@gmail.com
+' //            brandon.hilgeman@atos.net
 ' // ***************************************************************************
 #>
 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<applications>
+  <application name="Office 2010">
+    <RAP_Manufacturer>Microsoft Corporation</RAP_Manufacturer>
+    <RAP_ProductName>Microsoft Office Professional Plus 2010</RAP_ProductName>
+    <RAP_ProductVersion>14.0.7015.1000</RAP_ProductVersion>
+    <RAP_ProductCode>{C94E1A64-E757-4024-A6E6-754FAF180DF8}</RAP_ProductCode>
+    <CTMS_ID></CTMS_ID>
+    <CTMS_ApplicationName></CTMS_ApplicationName>
+    <Install>\\path\to\setup.exe</Install>
+    <Uninstall>msiexec.exe /qb /x {C94E1A64-E757-4024-A6E6-754FAF180DF8}</Uninstall>
+    <Documentation>C:\Users\brandon\OneDrive\_PSProjects\AtosInstallMgr\AtosInstallMgr\Documentation</Documentation>
+    <Description>Description of application</Description>
+    <Comments>Comments to technicians installing</Comments>
+  </application>
+  <application name="VMware Workstation 14.1.1">
+    <RAP_Manufacturer>VMware, Inc.</RAP_Manufacturer>
+    <RAP_ProductName>VMware Workstation</RAP_ProductName>
+    <RAP_ProductVersion>14.1.1</RAP_ProductVersion>
+    <RAP_ProductCode>{68A3C081-580B-4076-B713-031E5276C21B}</RAP_ProductCode>
+    <CTMS_ID></CTMS_ID>
+    <CTMS_ApplicationName></CTMS_ApplicationName>
+    <Install>\\path\to\setup\</Install>
+    <Uninstall>msiexec.exe /qb /x {68A3C081-580B-4076-B713-031E5276C21B}</Uninstall>
+    <Documentation>\\path\to\Documentation\</Documentation>
+    <Description>Description of application</Description>
+    <Comments>Comments to technicians installing</Comments>
+  </application>
+</applications>
